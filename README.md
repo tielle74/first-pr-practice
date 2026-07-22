@@ -1,6 +1,6 @@
 # First PR Practice
 
-A practice repository for learning how to ship a pull requst on GitHub.
+A practice repository for learning how to ship a pull request on GitHub.
 
 ## Usage
 
